@@ -4,7 +4,7 @@
 
 
 Here are the function to study : 
-
+```javascript
 // // --- 1
 // let arg = 0;
 // function nyeem(param) {
@@ -76,7 +76,7 @@ let ret_val = nyeem(arg);
 // };
 // labeled blocks:
 //  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label#Using_a_labeled_block_with_break
-
+```
 
 
 
